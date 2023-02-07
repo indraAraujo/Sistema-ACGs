@@ -1,0 +1,11 @@
+{
+    "name":"www/html",
+    "autoload": {
+        "psr-4": {
+            "App\\":"utils/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
