@@ -1,0 +1,19 @@
+#header{
+    margin: auto;
+    box-shadow: 2px 2px ghostwhite;
+}
+#logo{
+    width: 500px;
+    height: 100px;
+}
+
+#card{
+    margin: auto;
+    width: 500px;
+}
+
+#btn{
+    align-self: center;
+    justify-content: center;
+    display: flex;
+}

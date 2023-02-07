@@ -1,0 +1,25 @@
+
+#card{
+    margin: 25px;
+    box-shadow: 2px 2px lightgray;
+}
+
+.Forms #id
+
+form{
+    display: flex;
+}
+.Forms #label{
+    color: gray;
+}
+
+.Forms #select{
+    width: 100px;
+    border:0 ;
+}
+
+.Forms button{
+    background-color: green;
+}
+
+
