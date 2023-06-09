@@ -3,3 +3,9 @@
 
 Sistema web desenvolvido em React JS para os alunos realizarem a solicitação de carga horária para Atividades Complementares de Graduação
 e os coordenadores analisarem os pedidos. 
+
+## Technologies
+* PHP
+* HTML
+* MySQL
+* Bootstrap
